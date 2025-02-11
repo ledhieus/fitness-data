@@ -1,0 +1,697 @@
+{
+  "workout": [
+    {
+      "id": "1",
+      "name": "Lịch tập tại nhà cho người mới",
+      "slug": "lich-tap-tai-nha-cho-nguoi-moi",
+      "banner": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739152757/thumb1_yl3wz4.png",
+      "level": "Beginner",
+      "week": "4",
+      "daysPerWeek": "3",
+      "goal": "Tăng cơ giảm mỡ",
+      "type": "body-weight",
+      "plan": [
+        {
+          "day": 1,
+          "slug": "day-1",
+          "dayName": "Thứ hai",
+          "target": "Toàn thân",
+          "exercise": [
+            {
+              "exerciseId": "1",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739113864/Push-Up_oq7iz9.gif",
+              "name": "Push up",
+              "set": "3",
+              "rest": "90s",
+              "reps": "10-15"
+            },
+            {
+              "exerciseId": "2",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739113994/Pull-up_zfri32.gif",
+              "name": "Pull up",
+              "set": "3",
+              "rest": "90s",
+              "reps": "5-8"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739114019/Incline-Push-Up_eqfb3e.gif",
+              "name": "Incline push up",
+              "set": "3",
+              "rest": "90s",
+              "reps": "12-15"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739114044/BODYWEIGHT-SUMO-SQUAT_ypx1ti.gif",
+              "name": "Squat",
+              "set": "3",
+              "rest": "90s",
+              "reps": "15-20"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739114084/Lying-Leg-Raise_k0bsop.gif",
+              "name": "Leg Raise",
+              "set": "3",
+              "rest": "90s",
+              "reps": "45s"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "slug": "day-3",
+          "dayName": "Thứ tư",
+          "target": "Toàn thân",
+          "exercise": [
+            {
+              "exerciseId": "1",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/03/Chin-Up.gif",
+              "name": "Chin up",
+              "set": "2",
+              "rest": "90s",
+              "reps": "5-8"
+            },
+            {
+              "exerciseId": "2",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739113864/Push-Up_oq7iz9.gif",
+              "name": "Push up",
+              "set": "3",
+              "rest": "90s",
+              "reps": "12-15"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2023/10/Static-Lunge.gif",
+              "name": "Lunge",
+              "set": "3",
+              "rest": "90s",
+              "reps": "20"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inverted-Row.gif",
+              "name": "Inverted row",
+              "set": "3",
+              "rest": "60s",
+              "reps": "15"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/plank.gif",
+              "name": "Plank",
+              "set": "3",
+              "rest": "60s",
+              "reps": "60s"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "slug": "day-5",
+          "dayName": "Thứ sáu",
+          "target": "Toàn thân",
+          "exercise": [
+            {
+              "exerciseId": "1",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739113864/Push-Up_oq7iz9.gif",
+              "name": "Push up",
+              "set": "3",
+              "rest": "90s",
+              "reps": "15"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inverted-Row.gif",
+              "name": "Inverted row",
+              "set": "3",
+              "rest": "90s",
+              "reps": "15"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2022/04/bodyweight-hip-thrust.gif",
+              "name": "Hip thrust",
+              "set": "3",
+              "rest": "90s",
+              "reps": "20"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Mountain-climber.gif",
+              "name": "Mountain climber",
+              "set": "3",
+              "rest": "60s",
+              "reps": "45s"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2015/11/Crunch.gif",
+              "name": "Crunch",
+              "set": "2",
+              "rest": "60s",
+              "reps": "15"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/burpees.gif",
+              "name": "Burpees",
+              "set": "2",
+              "rest": "60s",
+              "reps": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lịch tập Gym cho người mới",
+      "slug": "lich-tap-gym-cho-nguoi-moi",
+      "banner": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739156576/Thi%E1%BA%BFt_k%E1%BA%BF_ch%C6%B0a_c%C3%B3_t%C3%AAn_paaqyj.png",
+      "level": "Beginner",
+      "week": "4",
+      "daysPerWeek": "3",
+      "goal": "Tăng cơ giảm mỡ",
+      "type": "gym",
+      "plan": [
+        {
+          "day": 1,
+          "slug": "day-1",
+          "dayName": "Thứ hai",
+          "target": "Toàn thân",
+          "exercise": [
+            {
+              "exerciseId": "1",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bench-Press.gif",
+              "name": "Bench press",
+              "set": "3",
+              "rest": "90s",
+              "reps": "10"
+            },
+            {
+              "exerciseId": "2",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pec-Deck-Fly.gif",
+              "name": "Pec Deck Fly",
+              "set": "2",
+              "rest": "60s",
+              "reps": "12"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Cable-Row.gif",
+              "name": "Seated Cable Row",
+              "set": "3",
+              "rest": "90s",
+              "reps": "12-15"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2023/01/Dumbbell-Goblet-Squat.gif",
+              "name": "Dumbbell-Goblet-Squat",
+              "set": "3",
+              "rest": "90s",
+              "reps": "15-20"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739114084/Lying-Leg-Raise_k0bsop.gif",
+              "name": "Leg Raise",
+              "set": "3",
+              "rest": "90s",
+              "reps": "45s"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "slug": "day-3",
+          "dayName": "Thứ tư",
+          "target": "Toàn thân",
+          "exercise": [
+            {
+              "exerciseId": "1",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lat-Pulldown.gif",
+              "name": "Lat Pulldown",
+              "set": "3",
+              "rest": "90s",
+              "reps": "10-12"
+            },
+            {
+              "exerciseId": "2",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Row-Machine.gif",
+              "name": "Seated Row Machine",
+              "set": "2",
+              "rest": "90s",
+              "reps": "12-15"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Incline-Dumbbell-Press.gif",
+              "name": "Incline Dumbbell Press",
+              "set": "3",
+              "rest": "90s",
+              "reps": "10"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2024/10/smith-machine-squat.gif",
+              "name": "Smith machine squat",
+              "set": "3",
+              "rest": "90s",
+              "reps": "10"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/plank.gif",
+              "name": "Plank",
+              "set": "2",
+              "rest": "60s",
+              "reps": "60s"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "slug": "day-5",
+          "dayName": "Thứ sáu",
+          "target": "Toàn thân",
+          "exercise": [
+            {
+              "exerciseId": "1",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Lever-Shoulder-Press.gif",
+              "name": "Lever Shoulder Press",
+              "set": "2",
+              "rest": "90s",
+              "reps": "10-12"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Cable-Row.gif",
+              "name": "Seated Cable Row",
+              "set": "3",
+              "rest": "90s",
+              "reps": "12-15"
+            },
+            {
+              "exerciseId": "3",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2023/07/bodyweight-lunges.gif",
+              "name": "Bodyweight lunges",
+              "set": "3",
+              "rest": "90s",
+              "reps": "20"
+            },
+            {
+              "exerciseId": "4",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2015/11/Leg-Press.gif",
+              "name": "Leg Press",
+              "set": "3",
+              "rest": "90s",
+              "reps": "12"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2015/11/Crunch.gif",
+              "name": "Crunch",
+              "set": "2",
+              "rest": "60s",
+              "reps": "15"
+            },
+            {
+              "exerciseId": "5",
+              "gif": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Curl.gif",
+              "name": "Dumbbell Curl",
+              "set": "2",
+              "rest": "60s",
+              "reps": "15"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exerciseList": [
+    {
+      "id": "1",
+      "name": "Bench-Press",
+      "slug": "bench-press",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bench-Press.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "id": "2",
+      "name": "Incline Barbell Bench Press",
+      "slug": "incline-barbell-bench-press",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Incline-Barbell-Bench-Press.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "id": "3",
+      "name": "Dumbbell Fly",
+      "slug": "dumbbell-fly",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Fly.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "id": "4",
+      "name": "Dumbbell Press",
+      "slug": "dumbbell-press",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Press-1.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "id": "5",
+      "name": "Inner Chest Press Machine",
+      "slug": "inner-chest-press-machine",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inner-Chest-Press-Machine.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "id": "6",
+      "name": "Push-Up",
+      "slug": "push-up",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Push-Up.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "id": "7",
+      "name": "Triceps Dips on Floor",
+      "slug": "triceps-dips-on-floor",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Triceps-Dips-on-Floor.gif",
+      "muschleId": "1",
+      "primary": "Ngực"
+    },
+    {
+      "name": "Pull-Up",
+      "slug": "pull-up",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pull-up.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "QlOYmz1"
+    },
+    {
+      "name": "Lat Pulldown",
+      "slug": "Lat-Pulldown",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lat-Pulldown.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "EU4Vfq7"
+    },
+    {
+      "name": "Seated Cable Row",
+      "slug": "Seated-Cable-Row",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Cable-Row.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "M8lx8Uv"
+    },
+    {
+      "name": "Barbell Bent Over Row",
+      "slug": "Barbell-Bent-Over-Row",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bent-Over-Row.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "e8chXPH"
+    },
+    {
+      "name": "Dumbbell Row",
+      "slug": "Dumbbell-Row",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Row.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "Km1yhAx"
+    },
+    {
+      "name": "Reverse Lat Pulldown",
+      "slug": "Reverse-Lat-Pulldown",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Reverse-Lat-Pulldown.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "018Ntts"
+    },
+    {
+      "name": "Seated Row Machine",
+      "slug": "Seated-Row-Machine",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Row-Machine.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "kSOnhBo"
+    },
+    {
+      "name": "Incline Reverse Grip Dumbbell Row",
+      "slug": "Incline-Reverse-Grip-Dumbbell-Row",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Incline-Reverse-Grip-Dumbbell-Row.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "c7BkLGD"
+    },
+    {
+      "name": "close grip cable row",
+      "slug": "close-grip-cable-row",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/06/close-grip-cable-row.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "7OP157Q"
+    },
+    {
+      "name": "Inverted Row",
+      "slug": "Inverted-Row",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inverted-Row.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "QT72S_a"
+    },
+    {
+      "name": "Chin Up",
+      "slug": "Chin-Up",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/03/Chin-Up.gif",
+      "muschleId": "3",
+      "primary": "Lưng",
+      "id": "HdVwOSM"
+    },
+    {
+      "name": "Dumbbell Lateral Raise",
+      "slug": "Dumbbell-Lateral-Raise",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Lateral-Raise.gif",
+      "muschleId": "2",
+      "primary": "Vai Giữa",
+      "id": "CrswHC5"
+    },
+    {
+      "name": "Dumbbell Shoulder Press",
+      "slug": "Dumbbell-Shoulder-Press",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Shoulder-Press.gif",
+      "muschleId": "2",
+      "primary": "Vai Giữa",
+      "id": "Gt13LCi"
+    },
+    {
+      "name": "Lever Shoulder Press",
+      "slug": "Lever-Shoulder-Press",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Lever-Shoulder-Press.gif",
+      "muschleId": "2",
+      "primary": "Vai trước",
+      "id": "3BAyya1"
+    },
+    {
+      "name": "Dumbbell Front Raise",
+      "slug": "Dumbbell-Front-Raise",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Front-Raise.gif",
+      "muschleId": "2",
+      "primary": "Vai trước",
+      "id": "VpElhPm"
+    },
+    {
+      "name": "Rear Delt Machine Flys",
+      "slug": "Rear-Delt-Machine-Flys",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Rear-Delt-Machine-Flys.gif",
+      "muschleId": "2",
+      "primary": "Vai sau",
+      "id": "1Lvc7qR"
+    },
+    {
+      "name": "Seated Dumbbell Lateral Raise",
+      "slug": "Seated-Dumbbell-Lateral-Raise",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Seated-Dumbbell-Lateral-Raise.gif",
+      "muschleId": "2",
+      "primary": "Vai giữa",
+      "id": "3tq_H4v"
+    },
+    {
+      "name": "Face Pull",
+      "slug": "Face-Pull",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Face-Pull.gif",
+      "muschleId": "2",
+      "primary": "Vai Sau",
+      "id": "qx34LMB"
+    },
+    {
+      "name": "Ab Coaster Machine",
+      "slug": "Ab-Coaster-Machine",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2022/07/Ab-Coaster-Machine.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "mTfJAVB"
+    },
+    {
+      "name": "Seated Bench Leg Pull in",
+      "slug": "Seated-Bench-Leg-Pull-in",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Bench-Leg-Pull-in.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "JbT2Y3v"
+    },
+    {
+      "name": "Crunch",
+      "slug": "Crunch",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2015/11/Crunch.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "xIMEB3N"
+    },
+    {
+      "name": "Mountain climber",
+      "slug": "Mountain-climber",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Mountain-climber.gif",
+      "muschleId": "4",
+      "primary": "Core",
+      "id": "EVOaNzg"
+    },
+    {
+      "name": "Bicycle Crunch",
+      "slug": "Bicycle-Crunch",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Bicycle-Crunch.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "CIJFQU1"
+    },
+    {
+      "name": "Lying Scissor Kick",
+      "slug": "Lying-Scissor-Kick",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/05/Lying-Scissor-Kick.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "Y4VRZYW"
+    },
+    {
+      "name": "Lying Leg Raise",
+      "slug": "Lying-Leg-Raise",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lying-Leg-Raise.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "gg2yX6G"
+    },
+    {
+      "name": "Tuck Crunch",
+      "slug": "Tuck-Crunch",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/05/Tuck-Crunch.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "9r_npnH"
+    },
+    {
+      "name": "Captains Chair Leg Raise",
+      "slug": "Captains-Chair-Leg-Raise",
+      "img": "https://fitnessprogramer.com/wp-content/uploads/2021/05/Captains-Chair-Leg-Raise.gif",
+      "muschleId": "4",
+      "primary": "Bụng",
+      "id": "TU7jVOU"
+    }
+  ],
+  "muscleList": [
+    {
+      "id": "1",
+      "name": "Ngực",
+      "slug": "nguc",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739161191/ng%E1%BB%B1c1_w5j2mn.png"
+    },
+    {
+      "id": "2",
+      "name": "Vai",
+      "slug": "vai",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739161192/vai1_zdxe7j.png"
+    },
+    {
+      "id": "3",
+      "name": "Lưng",
+      "slug": "lung",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739161192/L%C6%B0ng1_y1eqpd.png"
+    },
+    {
+      "id": "4",
+      "name": "Bụng",
+      "slug": "bung",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739161191/b%E1%BB%A5ng1_svpztf.png"
+    },
+    {
+      "id": "5",
+      "name": "Chân",
+      "slug": "chan",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739160403/ch%C3%A2n_vwg9s7.png"
+    },
+    {
+      "id": "6",
+      "name": "Tay",
+      "slug": "tay",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739161191/tay1_amgbxx.png"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Xà đơn treo tường chịu lực 200kg",
+      "price": "344.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176397/X%C3%A0_pxhk1v.png",
+      "link": "https://s.shopee.vn/3q89CJJhvp"
+    },
+    {
+      "id": 2,
+      "name": "Dây Kháng Lực - dây trợ lực",
+      "price": "30.000đ - 149.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176387/D%C3%A2y_kh%C3%A1ng_l%E1%BB%B1c_gqnjbm.png",
+      "link": "https://s.shopee.vn/3foj00KLGm"
+    },
+    {
+      "id": 3,
+      "name": "Găng Tay Tập Gym - Dây Kéo Lưng",
+      "price": "150.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176392/G%C4%83ng_tay_b1sges.png",
+      "link": "https://s.shopee.vn/3q89CKNhfU"
+    },
+    {
+      "id": 4,
+      "name": "Dụng cụ chống đẩy tập luyện tại nhà",
+      "price": "144.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176390/D%E1%BB%A5ng_c%E1%BB%A5_ch%E1%BB%91ng_%C4%91%E1%BA%A9y_vmxpgd.png",
+      "link": "https://s.shopee.vn/3foj01OL0T"
+    },
+    {
+      "id": 5,
+      "name": "Dụng cụ hít đất cao cấp Welike",
+      "price": "90.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176386/B%E1%BB%99_ch%E1%BB%91ng_%C4%91%E1%BA%A9y_u9fv6a.png",
+      "link": "https://s.shopee.vn/2qFc0TNVxb"
+    },
+    {
+      "id": 6,
+      "name": "Bộ Vòng Treo Xà - Rings Calisthenic",
+      "price": "329.000đ-649.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176393/ring_kzyi5y.png",
+      "link": "https://s.shopee.vn/3LBsbOLbwk"
+    },
+    {
+      "id": 7,
+      "name": "Bó gối quấn bảo vệ đầu gối",
+      "price": "89.000đ",
+      "img": "https://res.cloudinary.com/dd7rhfqp8/image/upload/v1739176392/cu%E1%BB%91n_g%E1%BB%91i_xv2nrp.png",
+      "link": "https://s.shopee.vn/2fwBoAO9IY"
+    }
+  ]
+}
